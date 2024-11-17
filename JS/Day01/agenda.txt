@@ -1,0 +1,12 @@
+-- JS History
+-- where js code is written
+-- syntax -- variables
+-- datatypes
+-- oporators
+-- falsy values
+-- Short Circuit
+-- control Flow
+--how to coomunicate with user 
+----------------------------------
+== string 
+== array
