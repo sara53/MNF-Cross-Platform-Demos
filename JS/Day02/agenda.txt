@@ -1,0 +1,17 @@
+== functions
+    -- built in functions
+    -- user defined functions
+        -- function statement (declaration)
+        -- function expression
+        -- call back function 
+        -- IIFE (self Invoked Function)
+
+
+== Hoisting
+== How JS Works 
+== Array 
+---------------------------------------------
+-- Object 
+-- Math Object
+-- Date Object Self Study
+-----------------------------------------------
