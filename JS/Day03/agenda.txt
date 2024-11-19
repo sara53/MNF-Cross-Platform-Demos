@@ -1,0 +1,30 @@
+== Function execution in memory
+== Shadwing
+== local scope 
+== Global scope
+== Dom Object -- Dom Tree
+== How To select Element From Dom
+== How to change Content
+/**=========================================== */
+/** Dom --> Document Object Model *
+ * -------------------------------------------
+ * how to select Element from dom
+ *-----------------------------------
+        == getElementById --> Element | null
+        == querySelector --> Element | null
+        == getElementsByClassName --> collection
+        == getElementsByTagName ---> collection
+        == getElementsByName --> collection
+        == querySelectorAll --> nodeList
+        ----------------------------------------
+    == Properties
+    -- firstChild
+    -- lastChild
+    -- firstElementChild
+    -- lastElementChild
+    -- children
+    -- childNodes
+    -- document.links
+    -- document.images
+    -- document.forms
+ * *********************************************/

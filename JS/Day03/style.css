@@ -1,0 +1,41 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	height: 3000px;
+}
+
+div {
+	background-color: #222020;
+	padding: 3em;
+	text-align: center;
+	color: #fff;
+}
+
+p {
+	background-color: #55a2dd;
+	padding: 3em;
+	margin-bottom: 1.5em;
+}
+
+button {
+	display: block;
+	width: 170px;
+	padding: 1em;
+	border: transparent;
+	border-radius: 5px;
+	margin: 1em;
+	cursor: pointer;
+}
+button:hover {
+	background-color: orange;
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
