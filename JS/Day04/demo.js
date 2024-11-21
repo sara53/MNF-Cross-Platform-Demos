@@ -232,3 +232,8 @@
 // 		output.innerHTML = "length > 3";
 // 	}
 // });
+
+function login(e) {
+	e.preventDefault();
+	console.log("success");
+}
