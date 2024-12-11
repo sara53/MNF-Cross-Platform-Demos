@@ -1,0 +1,9 @@
+-- function constructor
+-- Prototype Object
+-- Prototypal inheritance
+-- Object.create
+-- inheritance
+-- Polymorphism
+-- Abstraction
+-- Encupsulation
+---------------------------------------
