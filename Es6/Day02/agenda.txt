@@ -1,0 +1,8 @@
+-- Object.keys
+-- Object.assign
+-- Object.values
+-- Object.entries
+-- Async Code in memory
+-- Promise 
+-- then -- catch
+-- Async -- await
