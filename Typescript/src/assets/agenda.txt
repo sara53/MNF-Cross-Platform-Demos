@@ -1,0 +1,17 @@
+-- Datatypes
+- string
+- number
+- boolean
+- undefined
+- null
+- any
+-------------------------------------
+-- type -- union types 
+-------------------------------------
+-- arrays
+--- objects
+--- functions
+--- OOP 
+--- enum
+-----------------------------generic-----------
+-----------------------------------------------
