@@ -1,0 +1,9 @@
+header {
+	padding: 3rem;
+	text-align: center;
+	background-color: #ccc;
+}
+
+.info {
+	background-color: red;
+}
