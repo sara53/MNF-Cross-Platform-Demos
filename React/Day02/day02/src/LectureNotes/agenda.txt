@@ -1,0 +1,29 @@
+-- class Component
+-- Component Interactions
+    -- pass data from parent to child (props)
+
+-- make custom components (Children)
+-- Render List 
+-- component Life Cycle
+-- Virtual Dom
+-- React Hooks
+    -- useState
+    -- useRef
+    -- useEffect
+
+------------------------------------------------
+--- Lecture3
+---- Component Interactions
+----- Form Handling
+----- Styled components
+-------------------------------------------------
+Lecture 4
+---- Routing
+---- API and json Server
+---------------------------------------------------
+Lecture 5 
+---- Redux
+---- Redux ToolKit
+            
+
+    

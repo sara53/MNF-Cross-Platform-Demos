@@ -1,0 +1,7 @@
+.contentBg {
+	background-color: var(--main-color);
+}
+
+.contentBody {
+	border: 1px solid var(--main-color);
+}
