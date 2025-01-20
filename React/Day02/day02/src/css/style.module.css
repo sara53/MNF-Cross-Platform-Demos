@@ -1,3 +1,8 @@
 :root {
 	--main-color: #353b62;
 }
+
+img {
+	height: 250px;
+	object-fit: cover;
+}
