@@ -29,6 +29,8 @@ export function User() {
                     ) )}
 
                 </div>
+
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique quae facilis veritatis incidunt dolore eum mollitia odio dolorum, iure exercitationem ducimus quo tempore vitae facere necessitatibus, nihil aliquid dolor perferendis?
             </div>
         </div>
     )

@@ -1,0 +1,20 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": "1",
+      "name": "Book updated",
+      "price": 200
+    },
+    {
+      "id": "3",
+      "name": "Watch",
+      "price": 50
+    },
+    {
+      "id": "4",
+      "name": "Mouse",
+      "price": 20
+    }
+  ]
+}
