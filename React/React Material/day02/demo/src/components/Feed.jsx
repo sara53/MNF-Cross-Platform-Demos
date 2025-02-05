@@ -1,11 +1,12 @@
 import { Box } from '@mui/material'
 import React from 'react'
+import { Posts } from './Posts'
 
 export function Feed() {
     return (
-        <Box bgcolor="warning.light" flex={7} p={2}>
+        <Box flex={7} p={2}>
 
-            Feed
+            <Posts />
         </Box>
     )
 }
